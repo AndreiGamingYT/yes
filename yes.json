@@ -1,1 +1,8 @@
-{yes}
+{
+   "error": {
+      "message": "An access token is required to request this resource.",
+      "type": "OAuthException",
+      "code": 104,
+      "fbtrace_id": "AC4qKK3tB_JNR7q_47_FCdW"
+   }
+}
